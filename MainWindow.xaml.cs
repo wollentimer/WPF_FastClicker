@@ -64,6 +64,5 @@ namespace Clicker
             timeSec = int.Parse(textbox.Text);
         }
 
-
     }
 }
