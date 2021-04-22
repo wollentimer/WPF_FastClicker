@@ -1,4 +1,4 @@
-#C# WPF Clicker
+C# WPF [Challenge your finger speed!]
 Challenge your finger speed!
 This is a simple app for challenging your finger speed.
 Just push the button as fast as u can until the time is up.
